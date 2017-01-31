@@ -2,8 +2,6 @@
 title: "test repo"
 email: "hassenbentanfous@gmail.com"
 description: "test "
-baseurl: "http://hbt.github.io/testrepo"
-url: "http://hbt.github.io/testrepo"
 future: true
 
 # Build settings
